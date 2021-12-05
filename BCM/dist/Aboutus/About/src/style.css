@@ -1,0 +1,33 @@
+html{
+  background-img:url('Bg.png');
+background-color:#F0FFF0;
+}
+.text{
+  position:absolute;
+  top:120px;
+  right:100px;
+     font-family:Times;
+     color:#2E8B57;
+}
+.head{
+  font-size:20px;
+  
+}
+.odd{
+  position:relative;
+  left:900px;
+  top:400px;
+  font-size:15px;
+  
+}
+.even{
+  position:relative;
+  left:400px;
+   top:478px;
+}
+.text2{
+  position:relative;
+  left:50px;
+  color:#2E8B57;
+  font-family:Itim;
+}
